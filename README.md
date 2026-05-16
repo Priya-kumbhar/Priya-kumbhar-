@@ -25,6 +25,7 @@
 - React.js 
 - Backend: Node.js, Express (learning)
 - REST APIs
+- Gen AI
 
 ---
 
@@ -66,4 +67,5 @@
 
 ## ⚡ Mindset
 > Consistency > Motivation
->  I’m not chasing success — I’m building the person who can handle it
+> I’m not chasing success
+> I’m building the person who can handle it
